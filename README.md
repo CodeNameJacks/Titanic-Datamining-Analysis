@@ -26,3 +26,4 @@ In this exercise we will try to determine the following:
 Which of the classification models and regression models used performed the best in predicting the probability of survival or non-survival from the Titanic?
 
 Did any one or more features play a contributing factor in the probability of survival?
+
