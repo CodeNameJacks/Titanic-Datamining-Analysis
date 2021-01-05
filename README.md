@@ -1,4 +1,4 @@
-### Titanic-Datamining-Analysis
+## Titanic-Datamining-Analysis
 
 This project is the datamining analysis on the RMS Titanic dataset.
 
